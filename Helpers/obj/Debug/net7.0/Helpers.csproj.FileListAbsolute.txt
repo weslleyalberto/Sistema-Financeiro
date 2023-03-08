@@ -1,0 +1,12 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\Sistema_Financeiro\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
